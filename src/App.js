@@ -69,7 +69,7 @@ class App extends Component {
                 queryFormat="and"
                 placeholder="Search for movies..."
                 iconPosition="left"
-                autosuggest={false}
+                autosuggest={true}
                 filterLabel="search"
               />
             </div>
