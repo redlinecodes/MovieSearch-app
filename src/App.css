@@ -55,6 +55,7 @@ hr {
 .search-bar {
   border: 2px solid #86ddf8;
   border-radius: 3px;
+  color: #fff; /* added */
 }
 
 /* styling for left-sidebar */
@@ -190,6 +191,7 @@ hr {
 
 .result-container {
   width: 80%;
+  background-color: #fff; /* added */
 }
 
 .revenue-time-container {
